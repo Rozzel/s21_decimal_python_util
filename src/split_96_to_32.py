@@ -25,14 +25,18 @@ def main():
 
     try:
         high, mid, low = split_96_to_32(args.num)
+
         print("96-битное число: {}".format(args.num))
-        print("Старшие 32 бита: {}".format(high))
-        print("Средние 32 бита: {}".format(mid))
+
+        print("\nРазбитие на 32-битные блоки:")
         print("Младшие 32 бита: {}".format(low))
-        print("hex")
-        print("Старшие 32 бита: {}".format(hex(high)))
-        print("Средние 32 бита: {}".format(hex(mid)))
-        print("Младшие 32 бита: {}".format(hex(low)))
+        print("Средние 32 бита: {}".format(mid))
+        print("Старшие 32 бита: {}".format(high))
+
+        print("\nВ шестнадцатеричном представлении:")
+        print("Младшие 32 бита в hex: {}".format(hex(low)))
+        print("Средние 32 бита в hex: {}".format(hex(mid)))
+        print("Старшие 32 бита в hex: {}".format(hex(high)))
 
     except ValueError as e:
         print(e)
