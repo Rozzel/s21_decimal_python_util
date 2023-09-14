@@ -1,14 +1,10 @@
 import argparse
 
 MASK_32BIT = 0xFFFFFFFF  # 32-битная маска
+MAX_96BIT = (1 << 96) - 1  # Максимальное 96-битное число
 
 def split_96_to_32(num):
-    """
-    Разбивает 96-битное число на три 32-битных числа.
-    :param num: 96-битное число
-    :return: кортеж из трех 32-битных чисел (high, mid, low)
-    """
-    if num >= (1 << 96):
+    if num > MAX_96BIT:
         raise ValueError("Число больше 96 бит")
 
     low = num & MASK_32BIT
@@ -37,6 +33,9 @@ def main():
         print("Младшие 32 бита в hex: {}".format(hex(low)))
         print("Средние 32 бита в hex: {}".format(hex(mid)))
         print("Старшие 32 бита в hex: {}".format(hex(high)))
+
+        if args.num == MAX_96BIT:
+            print("\nЧисло ровно вмещается в 3 блока по 32 бита.")
 
     except ValueError as e:
         print(e)
