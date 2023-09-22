@@ -42,28 +42,43 @@ Checking for memory leaks
 - CC=gcc
 - -std=c11
 - make
-	- os: fedora, ubuntu, alpine, darwin
+	- **OS**: fedora, ubuntu, alpine, darwin
 		- all
 		- clean
 		- test
 		- s21.decimal.a
-			- gcov_report
+		- gcov_report
+- Modular makefile
+
+---
+
+## Style
+
+- makefiles
+	- style.mk
+		- test-style_ci
+
+---
+
+## Debugging
+
+- Configuring debagging in the project
 
 ---
 
 ## Docker
 
----
-## Style
-
----
-## Debugging
-
-Configuring debagging in the project
+- Dockerfile
+	- .alpine
+	- .ubuntu
+- CI/CD
+	- alpine
 
 ---
 
 ## CI/CD
+
+- .gitlab-ci.yml
 
 ---
 
@@ -76,5 +91,10 @@ Configuring debagging in the project
 ---
 
 ## Doxygen
+
+- Doxyfile
+- File_lists
+	- 21_decimal.h
+	- All files
 
 ---

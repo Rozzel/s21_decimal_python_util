@@ -132,30 +132,43 @@ Checking for memory leaks
 - CC=gcc
 - -std=c11
 - make
-	- os: fedora, ubuntu, alpine, darwin
+	- **OS**: fedora, ubuntu, alpine, darwin
 		- all
 		- clean
 		- test
 		- s21.decimal.a
-			- gcov_report
-</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
-<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
-
-## Docker
+		- gcov_report
+- Modular makefile
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ## Style
+
+- makefiles
+	- style.mk
+		- test-style_ci
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ## Debugging
 
-Configuring debagging in the project
+- Configuring debagging in the project
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+## Docker
+
+- Dockerfile
+	- .alpine
+	- .ubuntu
+- CI/CD
+	- alpine
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ## CI/CD
+
+- .gitlab-ci.yml
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
@@ -168,6 +181,11 @@ Configuring debagging in the project
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ## Doxygen
+
+- Doxyfile
+- File_lists
+	- 21_decimal.h
+	- All files
 </div></script></section></div>
     </div>
 
