@@ -1,0 +1,7 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$s21__from__decimal__to__int_8c.html#a81c7a69e457d2e56dc3ca2ea3235184c" title="Converts a s21_decimal number to an integer representation." alt="" coords="155,31,341,57"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="404,5,481,32"/>
+<area shape="rect" id="node4" href="$s21__truncate_8c.html#a96fe7ecfba2a6819029af4aba433b6ea" title="Truncates the fractional part of an s21_decimal value." alt="" coords="389,56,496,83"/>
+<area shape="rect" id="node5" href="$s21__utils_8c.html#a8d8318d6fab0f1a7cfa6ed024f6fb1eb" title="Retrieves the exponent from a scale number." alt="" coords="544,56,655,83"/>
+</map>

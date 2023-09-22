@@ -1,0 +1,5 @@
+<map id="align_big_decimal_exponent" name="align_big_decimal_exponent">
+<area shape="rect" id="node1" title="Aligns the scaling factors (exponents) of two s21_big_decimal numbers." alt="" coords="5,13,213,39"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a49ad2dff42cb71a3a15238a88dba12ef" title="Increases the accuracy (precision) of an s21_big_decimal number by one decimal place." alt="" coords="261,5,424,47"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#af02ed997d3fe7b4d327c64496d7293ed" title="Multiplies the mantissa of an s21_big_decimal number by an integer." alt="" coords="472,13,672,39"/>
+</map>

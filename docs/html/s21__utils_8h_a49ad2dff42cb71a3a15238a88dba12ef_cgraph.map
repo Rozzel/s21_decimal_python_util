@@ -1,0 +1,4 @@
+<map id="increase_big_decimal_accuracy" name="increase_big_decimal_accuracy">
+<area shape="rect" id="node1" title="Increases the accuracy (precision) of an s21_big_decimal number by one decimal place." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#af02ed997d3fe7b4d327c64496d7293ed" title="Multiplies the mantissa of an s21_big_decimal number by an integer." alt="" coords="216,13,416,39"/>
+</map>

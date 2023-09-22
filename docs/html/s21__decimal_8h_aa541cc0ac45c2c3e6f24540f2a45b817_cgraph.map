@@ -1,0 +1,4 @@
+<map id="s21_from_int_to_decimal" name="s21_from_int_to_decimal">
+<area shape="rect" id="node1" title="Converts a 32&#45;bit integer to the custom s21_decimal format." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a975fc2b9decb884a3f55d2784a8eccec" title="Initializes and returns a default s21_decimal structure." alt="" coords="240,5,377,32"/>
+</map>

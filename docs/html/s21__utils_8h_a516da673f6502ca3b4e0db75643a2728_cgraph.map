@@ -1,0 +1,5 @@
+<map id="from_decimal_to_big_decimal" name="from_decimal_to_big_decimal">
+<area shape="rect" id="node1" title="Converts an s21_decimal structure to its corresponding s21_big_decimal representation." alt="" coords="5,23,164,65"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a8d8318d6fab0f1a7cfa6ed024f6fb1eb" title="Retrieves the exponent from a scale number." alt="" coords="212,5,323,32"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="229,56,306,83"/>
+</map>

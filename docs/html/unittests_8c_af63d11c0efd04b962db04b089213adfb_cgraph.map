@@ -1,0 +1,9 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,107,108"/>
+<area shape="rect" id="node2" href="$s21__is__less_8c.html#aabeb6f60c2048d9c05b4b2f98004cfe4" title="Checks if one s21_decimal number is strictly less than another." alt="" coords="155,81,251,108"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#ac3d029a8d19678191b7ca2f7aa9a34b5" title="Compares two s21_decimal numbers." alt="" coords="299,81,377,108"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#a9d6231bec9abbe0d57f60c6900d0f66f" title="Copies the contents of one s21_decimal structure to another." alt="" coords="425,5,537,32"/>
+<area shape="rect" id="node5" href="$s21__utils_8c.html#a8d8318d6fab0f1a7cfa6ed024f6fb1eb" title="Retrieves the exponent from a scale number." alt="" coords="585,107,696,133"/>
+<area shape="rect" id="node6" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="443,107,520,133"/>
+<area shape="rect" id="node7" href="$s21__truncate_8c.html#a96fe7ecfba2a6819029af4aba433b6ea" title="Truncates the fractional part of an s21_decimal value." alt="" coords="428,157,535,184"/>
+</map>

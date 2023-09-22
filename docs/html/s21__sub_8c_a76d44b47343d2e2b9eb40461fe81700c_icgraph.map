@@ -1,0 +1,6 @@
+<map id="s21_sub" name="s21_sub">
+<area shape="rect" id="node1" title="Subtracts one s21_decimal number from another." alt="" coords="304,31,379,57"/>
+<area shape="rect" id="node2" href="$s21__round_8c.html#a4ed89d1e40c9c61ee08627f32fabfd43" title="Rounds an s21_decimal value to the nearest integer." alt="" coords="161,5,250,32"/>
+<area shape="rect" id="node4" href="$unittests_8c.html#a8b1c5c51b6b7c713c7029a449999aa8c" title=" " alt="" coords="155,56,256,83"/>
+<area shape="rect" id="node3" href="$unittests_8c.html#aee499a172004aca5c32b98037076d19b" title=" " alt="" coords="5,5,107,32"/>
+</map>

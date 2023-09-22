@@ -1,0 +1,4 @@
+<map id="from_big_decimal_to_decimal" name="from_big_decimal_to_decimal">
+<area shape="rect" id="node1" title="Converts a number from its s21_big_decimal representation to s21_decimal representation." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a0b89a2db2838e9e38bdb7066298d22b3" title="Checks if an s21_decimal value is zero." alt="" coords="212,13,339,39"/>
+</map>

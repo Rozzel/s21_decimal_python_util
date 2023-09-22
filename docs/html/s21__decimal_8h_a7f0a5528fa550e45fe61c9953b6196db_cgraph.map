@@ -1,0 +1,8 @@
+<map id="s21_floor" name="s21_floor">
+<area shape="rect" id="node1" title="Computes the floor of an s21_decimal value." alt="" coords="5,81,87,108"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a9d6231bec9abbe0d57f60c6900d0f66f" title="Copies the contents of one s21_decimal structure to another." alt="" coords="142,5,254,32"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="159,56,237,83"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#a0b89a2db2838e9e38bdb7066298d22b3" title="Checks if an s21_decimal value is zero." alt="" coords="135,107,261,133"/>
+<area shape="rect" id="node5" href="$s21__truncate_8c.html#a96fe7ecfba2a6819029af4aba433b6ea" title="Truncates the fractional part of an s21_decimal value." alt="" coords="145,157,251,184"/>
+<area shape="rect" id="node6" href="$s21__utils_8c.html#a8d8318d6fab0f1a7cfa6ed024f6fb1eb" title="Retrieves the exponent from a scale number." alt="" coords="309,157,420,184"/>
+</map>

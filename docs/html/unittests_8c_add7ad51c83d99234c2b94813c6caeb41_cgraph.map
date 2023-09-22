@@ -1,0 +1,6 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$s21__negate_8c.html#a6c2b71c505c07608aff0ebe7cdfb7404" title="Negates an s21_decimal value." alt="" coords="155,31,252,57"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#a9d6231bec9abbe0d57f60c6900d0f66f" title="Copies the contents of one s21_decimal structure to another." alt="" coords="300,5,412,32"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="317,56,395,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="align_big_decimal_exponent" name="align_big_decimal_exponent">
+<area shape="rect" id="node1" title="Aligns the scaling factors (exponents) of two s21_big_decimal numbers." alt="" coords="579,164,787,191"/>
+<area shape="rect" id="node2" href="$s21__add_8c.html#af13bcedc388dd6232f1c6582477f3334" title="Adds two s21_decimal values." alt="" coords="454,101,530,128"/>
+<area shape="rect" id="node8" href="$s21__div_8c.html#a7083a1e1819c00666af1770373208cd9" title="Divides two s21_decimal values." alt="" coords="456,240,528,267"/>
+<area shape="rect" id="node10" href="$s21__mul_8c.html#a74c7792f618db5df40d79cf67b3fd977" title="Multiplies two s21_decimal numbers." alt="" coords="453,164,531,191"/>
+<area shape="rect" id="node3" href="$s21__round_8c.html#a4ed89d1e40c9c61ee08627f32fabfd43" title="Rounds an s21_decimal value to the nearest integer." alt="" coords="161,107,250,133"/>
+<area shape="rect" id="node5" href="$s21__sub_8c.html#a76d44b47343d2e2b9eb40461fe81700c" title="Subtracts one s21_decimal number from another." alt="" coords="317,5,392,32"/>
+<area shape="rect" id="node7" href="$unittests_8c.html#a05ec244ff349f21468249c59c77a061c" title=" " alt="" coords="304,56,405,83"/>
+<area shape="rect" id="node4" href="$unittests_8c.html#aee499a172004aca5c32b98037076d19b" title=" " alt="" coords="5,107,107,133"/>
+<area shape="rect" id="node6" href="$unittests_8c.html#a8b1c5c51b6b7c713c7029a449999aa8c" title=" " alt="" coords="155,5,256,32"/>
+<area shape="rect" id="node9" href="$unittests_8c.html#a3887e1ddd290f7528555357e06cd37b4" title=" " alt="" coords="304,259,405,285"/>
+<area shape="rect" id="node11" href="$unittests_8c.html#a07fbfebd277bb2fb455504e07990a0fa" title=" " alt="" coords="304,208,405,235"/>
+</map>

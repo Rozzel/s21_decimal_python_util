@@ -1,0 +1,15 @@
+<map id="compare" name="compare">
+<area shape="rect" id="node1" title="Compares two s21_decimal numbers." alt="" coords="383,132,461,159"/>
+<area shape="rect" id="node2" href="$s21__is__equal_8c.html#a9f063cb8be8f1797e59e5afd67012890" title="Checks if two s21_decimal numbers are equal." alt="" coords="191,5,298,32"/>
+<area shape="rect" id="node4" href="$s21__is__greater_8c.html#a0e8890642df1d26bd4f029e05f1099f6" title="Checks if one s21_decimal number is strictly greater than another." alt="" coords="186,56,303,83"/>
+<area shape="rect" id="node6" href="$s21__is__greater__or__equal_8c.html#a77595f19b8585634c41040ab76d619c7" title="Checks if one s21_decimal number is greater than or equal to another." alt="" coords="155,107,335,133"/>
+<area shape="rect" id="node8" href="$s21__is__less_8c.html#aabeb6f60c2048d9c05b4b2f98004cfe4" title="Checks if one s21_decimal number is strictly less than another." alt="" coords="197,157,293,184"/>
+<area shape="rect" id="node10" href="$s21__is__less__or__equal_8c.html#a0df2fe8dc1cd709dc868623731fe8a3f" title="Checks if one s21_decimal number is less than or equal to another." alt="" coords="165,208,324,235"/>
+<area shape="rect" id="node12" href="$s21__is__not__equal_8c.html#a27496ea6a3dc2f06739ee710dc81bfe1" title="Checks if two s21_decimal numbers are not equal." alt="" coords="177,259,312,285"/>
+<area shape="rect" id="node3" href="$unittests_8c.html#ade6ca31b7e34bcc20c14834ce7017848" title=" " alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node5" href="$unittests_8c.html#a1b03500e2e1deef3495229a750b34673" title=" " alt="" coords="5,56,107,83"/>
+<area shape="rect" id="node7" href="$unittests_8c.html#af9be5eff4c7bdf65b7d3759ca8bbba2b" title=" " alt="" coords="5,107,107,133"/>
+<area shape="rect" id="node9" href="$unittests_8c.html#a4f9fc0de33edef33d6afe5e22e7ea9e6" title=" " alt="" coords="5,157,107,184"/>
+<area shape="rect" id="node11" href="$unittests_8c.html#ad526e9b2d865926acd7c7c5e48cd60c8" title=" " alt="" coords="5,208,107,235"/>
+<area shape="rect" id="node13" href="$unittests_8c.html#a93c8a567c1d223cd46b308086552f044" title=" " alt="" coords="5,259,107,285"/>
+</map>

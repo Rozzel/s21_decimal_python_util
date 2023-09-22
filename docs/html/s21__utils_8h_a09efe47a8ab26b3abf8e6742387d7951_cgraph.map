@@ -1,0 +1,4 @@
+<map id="choose_sign" name="choose_sign">
+<area shape="rect" id="node1" title="Determines the resulting sign after an operation between two values." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="156,5,233,32"/>
+</map>

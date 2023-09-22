@@ -1,0 +1,36 @@
+<map id="get_sign" name="get_sign">
+<area shape="rect" id="node1" title="Retrieves the sign bit from a given number." alt="" coords="916,567,993,593"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a09efe47a8ab26b3abf8e6742387d7951" title="Determines the resulting sign after an operation between two values." alt="" coords="723,132,826,159"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#ac3d029a8d19678191b7ca2f7aa9a34b5" title="Compares two s21_decimal numbers." alt="" coords="735,183,814,209"/>
+<area shape="rect" id="node16" href="$s21__utils_8c.html#a516da673f6502ca3b4e0db75643a2728" title="Converts an s21_decimal structure to its corresponding s21_big_decimal representation." alt="" coords="695,505,854,546"/>
+<area shape="rect" id="node18" href="$s21__round_8c.html#a4ed89d1e40c9c61ee08627f32fabfd43" title="Rounds an s21_decimal value to the nearest integer." alt="" coords="161,461,250,488"/>
+<area shape="rect" id="node20" href="$s21__sub_8c.html#a76d44b47343d2e2b9eb40461fe81700c" title="Subtracts one s21_decimal number from another." alt="" coords="317,664,392,691"/>
+<area shape="rect" id="node29" href="$s21__floor_8c.html#a7f0a5528fa550e45fe61c9953b6196db" title="Computes the floor of an s21_decimal value." alt="" coords="734,672,815,699"/>
+<area shape="rect" id="node31" href="$s21__from__decimal__to__int_8c.html#a81c7a69e457d2e56dc3ca2ea3235184c" title="Converts a s21_decimal number to an integer representation." alt="" coords="681,723,868,749"/>
+<area shape="rect" id="node33" href="$s21__negate_8c.html#a6c2b71c505c07608aff0ebe7cdfb7404" title="Negates an s21_decimal value." alt="" coords="726,773,823,800"/>
+<area shape="rect" id="node4" href="$s21__is__equal_8c.html#a9f063cb8be8f1797e59e5afd67012890" title="Checks if two s21_decimal numbers are equal." alt="" coords="490,157,597,184"/>
+<area shape="rect" id="node6" href="$s21__is__greater_8c.html#a0e8890642df1d26bd4f029e05f1099f6" title="Checks if one s21_decimal number is strictly greater than another." alt="" coords="485,208,602,235"/>
+<area shape="rect" id="node8" href="$s21__is__greater__or__equal_8c.html#a77595f19b8585634c41040ab76d619c7" title="Checks if one s21_decimal number is greater than or equal to another." alt="" coords="453,259,633,285"/>
+<area shape="rect" id="node10" href="$s21__is__less_8c.html#aabeb6f60c2048d9c05b4b2f98004cfe4" title="Checks if one s21_decimal number is strictly less than another." alt="" coords="495,5,591,32"/>
+<area shape="rect" id="node12" href="$s21__is__less__or__equal_8c.html#a0df2fe8dc1cd709dc868623731fe8a3f" title="Checks if one s21_decimal number is less than or equal to another." alt="" coords="464,56,623,83"/>
+<area shape="rect" id="node14" href="$s21__is__not__equal_8c.html#a27496ea6a3dc2f06739ee710dc81bfe1" title="Checks if two s21_decimal numbers are not equal." alt="" coords="476,107,611,133"/>
+<area shape="rect" id="node5" href="$unittests_8c.html#ade6ca31b7e34bcc20c14834ce7017848" title=" " alt="" coords="304,157,405,184"/>
+<area shape="rect" id="node7" href="$unittests_8c.html#a1b03500e2e1deef3495229a750b34673" title=" " alt="" coords="304,208,405,235"/>
+<area shape="rect" id="node9" href="$unittests_8c.html#af9be5eff4c7bdf65b7d3759ca8bbba2b" title=" " alt="" coords="304,259,405,285"/>
+<area shape="rect" id="node11" href="$unittests_8c.html#a4f9fc0de33edef33d6afe5e22e7ea9e6" title=" " alt="" coords="304,5,405,32"/>
+<area shape="rect" id="node13" href="$unittests_8c.html#ad526e9b2d865926acd7c7c5e48cd60c8" title=" " alt="" coords="304,56,405,83"/>
+<area shape="rect" id="node15" href="$unittests_8c.html#a93c8a567c1d223cd46b308086552f044" title=" " alt="" coords="304,107,405,133"/>
+<area shape="rect" id="node17" href="$s21__add_8c.html#af13bcedc388dd6232f1c6582477f3334" title="Adds two s21_decimal values." alt="" coords="505,571,581,597"/>
+<area shape="rect" id="node23" href="$s21__div_8c.html#a7083a1e1819c00666af1770373208cd9" title="Divides two s21_decimal values." alt="" coords="507,453,579,480"/>
+<area shape="rect" id="node25" href="$s21__from__decimal__to__float_8c.html#aeb337792e088a4edd32372d4faf6d89c" title="Converts a s21_decimal number to a float representation." alt="" coords="462,505,625,546"/>
+<area shape="rect" id="node27" href="$s21__mul_8c.html#a74c7792f618db5df40d79cf67b3fd977" title="Multiplies two s21_decimal numbers." alt="" coords="505,403,582,429"/>
+<area shape="rect" id="node22" href="$unittests_8c.html#a05ec244ff349f21468249c59c77a061c" title=" " alt="" coords="304,613,405,640"/>
+<area shape="rect" id="node19" href="$unittests_8c.html#aee499a172004aca5c32b98037076d19b" title=" " alt="" coords="5,461,107,488"/>
+<area shape="rect" id="node21" href="$unittests_8c.html#a8b1c5c51b6b7c713c7029a449999aa8c" title=" " alt="" coords="155,664,256,691"/>
+<area shape="rect" id="node24" href="$unittests_8c.html#a3887e1ddd290f7528555357e06cd37b4" title=" " alt="" coords="304,461,405,488"/>
+<area shape="rect" id="node26" href="$unittests_8c.html#a2111c2abe43c849b90a4ddcbd4689ab9" title=" " alt="" coords="304,512,405,539"/>
+<area shape="rect" id="node28" href="$unittests_8c.html#a07fbfebd277bb2fb455504e07990a0fa" title=" " alt="" coords="304,411,405,437"/>
+<area shape="rect" id="node30" href="$unittests_8c.html#ac58b026ea90c9c64779244029b4a5dc7" title=" " alt="" coords="493,672,594,699"/>
+<area shape="rect" id="node32" href="$unittests_8c.html#aecbec542dbd8e8e81949fe5c5d55f1e8" title=" " alt="" coords="493,723,594,749"/>
+<area shape="rect" id="node34" href="$unittests_8c.html#add7ad51c83d99234c2b94813c6caeb41" title=" " alt="" coords="493,773,594,800"/>
+</map>

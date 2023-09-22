@@ -1,0 +1,11 @@
+<map id="banker_rounding_big_decimal" name="banker_rounding_big_decimal">
+<area shape="rect" id="node1" title="Applies bankers&#39; rounding to an s21_big_decimal number." alt="" coords="5,57,163,98"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#aec2d651e5a0148254ba967edcff40c1a" title="Adds a numeric value to the mantissa of an s21_big_decimal value." alt="" coords="211,5,407,32"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#ad7dad0ddd77925987a9d6e42a174f7b3" title="Decreases the precision of an s21_big_decimal number by one decimal place." alt="" coords="225,57,392,98"/>
+<area shape="rect" id="node5" href="$s21__utils_8c.html#a321df4c6432094a29f65a7692e59a4a2" title="Obtains the last count digits of the mantissa of an s21_big_decimal number." alt="" coords="213,135,405,161"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#ac961ad1863de34aea22709534b25f421" title="Divides the mantissa of an s21_big_decimal number by an integer." alt="" coords="477,43,633,85"/>
+<area shape="rect" id="node6" href="$s21__utils_8c.html#a663d53bede81d838eb25e76c46c48c38" title="Copies the contents of one s21_big_decimal structure to another." alt="" coords="485,109,624,136"/>
+<area shape="rect" id="node7" href="$s21__utils_8c.html#a766516f876fb11c370452543889640f3" title="Initializes and returns a default s21_big_decimal structure." alt="" coords="473,160,637,187"/>
+<area shape="rect" id="node8" href="$s21__utils_8c.html#af02ed997d3fe7b4d327c64496d7293ed" title="Multiplies the mantissa of an s21_big_decimal number by an integer." alt="" coords="455,211,655,237"/>
+<area shape="rect" id="node9" href="$s21__utils_8c.html#a9753b10f5a3e3623ef947e78b7b5b65e" title="Subtracts the mantissas of two big decimal numbers." alt="" coords="467,261,643,288"/>
+</map>

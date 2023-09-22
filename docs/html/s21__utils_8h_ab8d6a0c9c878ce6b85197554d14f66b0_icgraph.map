@@ -1,0 +1,9 @@
+<map id="from_big_decimal_to_decimal" name="from_big_decimal_to_decimal">
+<area shape="rect" id="node1" title="Converts a number from its s21_big_decimal representation to s21_decimal representation." alt="" coords="577,49,736,90"/>
+<area shape="rect" id="node2" href="$s21__add_8c.html#af13bcedc388dd6232f1c6582477f3334" title="Adds two s21_decimal values." alt="" coords="453,56,529,83"/>
+<area shape="rect" id="node3" href="$s21__round_8c.html#a4ed89d1e40c9c61ee08627f32fabfd43" title="Rounds an s21_decimal value to the nearest integer." alt="" coords="161,5,250,32"/>
+<area shape="rect" id="node5" href="$s21__sub_8c.html#a76d44b47343d2e2b9eb40461fe81700c" title="Subtracts one s21_decimal number from another." alt="" coords="317,56,392,83"/>
+<area shape="rect" id="node7" href="$unittests_8c.html#a05ec244ff349f21468249c59c77a061c" title=" " alt="" coords="304,107,405,133"/>
+<area shape="rect" id="node4" href="$unittests_8c.html#aee499a172004aca5c32b98037076d19b" title=" " alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node6" href="$unittests_8c.html#a8b1c5c51b6b7c713c7029a449999aa8c" title=" " alt="" coords="155,56,256,83"/>
+</map>

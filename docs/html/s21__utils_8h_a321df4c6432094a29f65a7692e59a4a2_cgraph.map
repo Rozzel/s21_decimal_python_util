@@ -1,0 +1,8 @@
+<map id="last_count_num_mantissa" name="last_count_num_mantissa">
+<area shape="rect" id="node1" title="Obtains the last count digits of the mantissa of an s21_big_decimal number." alt="" coords="5,123,197,149"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a663d53bede81d838eb25e76c46c48c38" title="Copies the contents of one s21_big_decimal structure to another." alt="" coords="276,5,415,32"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#ac961ad1863de34aea22709534b25f421" title="Divides the mantissa of an s21_big_decimal number by an integer." alt="" coords="267,57,423,98"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#a766516f876fb11c370452543889640f3" title="Initializes and returns a default s21_big_decimal structure." alt="" coords="263,123,427,149"/>
+<area shape="rect" id="node5" href="$s21__utils_8c.html#af02ed997d3fe7b4d327c64496d7293ed" title="Multiplies the mantissa of an s21_big_decimal number by an integer." alt="" coords="245,173,445,200"/>
+<area shape="rect" id="node6" href="$s21__utils_8c.html#a9753b10f5a3e3623ef947e78b7b5b65e" title="Subtracts the mantissas of two big decimal numbers." alt="" coords="257,224,433,251"/>
+</map>
