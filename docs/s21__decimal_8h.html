@@ -125,16 +125,22 @@ Data Structures</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:a4a1883d195d916c714fe3fe0af74b21c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="s21__decimal_8h.html#a4a1883d195d916c714fe3fe0af74b21c">NEGATIVE_SIGN_MASK</a>&#160;&#160;&#160;(0x80000000)</td></tr>
+<tr class="memdesc:a4a1883d195d916c714fe3fe0af74b21c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mask for extracting the sign bit from a 32-bit integer.  <a href="s21__decimal_8h.html#a4a1883d195d916c714fe3fe0af74b21c">More...</a><br /></td></tr>
 <tr class="separator:a4a1883d195d916c714fe3fe0af74b21c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3a6f4984e27379342817c008f2ad4a40"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="s21__decimal_8h.html#a3a6f4984e27379342817c008f2ad4a40">DECIMAL_EXPONENT_MASK</a>&#160;&#160;&#160;(0x00FF0000)</td></tr>
+<tr class="memdesc:a3a6f4984e27379342817c008f2ad4a40"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mask for extracting the exponent part from a 32-bit integer representing a decimal number.  <a href="s21__decimal_8h.html#a3a6f4984e27379342817c008f2ad4a40">More...</a><br /></td></tr>
 <tr class="separator:a3a6f4984e27379342817c008f2ad4a40"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e71b15738d08a8ed4a3c84a4dcbebea"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="s21__decimal_8h.html#a5e71b15738d08a8ed4a3c84a4dcbebea">MAX_EXPONENT_SIZE</a>&#160;&#160;&#160;28</td></tr>
+<tr class="memdesc:a5e71b15738d08a8ed4a3c84a4dcbebea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum size for the exponent of a decimal number in the system.  <a href="s21__decimal_8h.html#a5e71b15738d08a8ed4a3c84a4dcbebea">More...</a><br /></td></tr>
 <tr class="separator:a5e71b15738d08a8ed4a3c84a4dcbebea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5648fa166c6f122fa63cdf2e457a0c91"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="s21__decimal_8h.html#a5648fa166c6f122fa63cdf2e457a0c91">MAX_DECIMAL</a>&#160;&#160;&#160;7.9228162514264337593543950335e28</td></tr>
+<tr class="memdesc:a5648fa166c6f122fa63cdf2e457a0c91"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum representable decimal value in the system.  <a href="s21__decimal_8h.html#a5648fa166c6f122fa63cdf2e457a0c91">More...</a><br /></td></tr>
 <tr class="separator:a5648fa166c6f122fa63cdf2e457a0c91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29f55d8672e1f116ffd9ef5600eac679"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="s21__decimal_8h.html#a29f55d8672e1f116ffd9ef5600eac679">MIN_FRACTURE_PART</a>&#160;&#160;&#160;1e-28</td></tr>
+<tr class="memdesc:a29f55d8672e1f116ffd9ef5600eac679"><td class="mdescLeft">&#160;</td><td class="mdescRight">Smallest representable fractional part of a decimal number in the system.  <a href="s21__decimal_8h.html#a29f55d8672e1f116ffd9ef5600eac679">More...</a><br /></td></tr>
 <tr class="separator:a29f55d8672e1f116ffd9ef5600eac679"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a22ad22e72c7b6bfdf6549f7b9be71c2c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="s21__decimal_8h.html#a22ad22e72c7b6bfdf6549f7b9be71c2c">SIGNIFICANT_DIGITS_LEN</a>&#160;&#160;&#160;7</td></tr>
+<tr class="memdesc:a22ad22e72c7b6bfdf6549f7b9be71c2c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Length (in digits) of the significant part of a decimal number in the system.  <a href="s21__decimal_8h.html#a22ad22e72c7b6bfdf6549f7b9be71c2c">More...</a><br /></td></tr>
 <tr class="separator:a22ad22e72c7b6bfdf6549f7b9be71c2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -232,6 +238,8 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Mask for extracting the exponent part from a 32-bit integer representing a decimal number. </p>
+
 </div>
 </div>
 <a id="a5648fa166c6f122fa63cdf2e457a0c91"></a>
@@ -245,6 +253,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Maximum representable decimal value in the system. </p>
 
 </div>
 </div>
@@ -260,6 +270,8 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Maximum size for the exponent of a decimal number in the system. </p>
+
 </div>
 </div>
 <a id="a29f55d8672e1f116ffd9ef5600eac679"></a>
@@ -273,6 +285,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Smallest representable fractional part of a decimal number in the system. </p>
 
 </div>
 </div>
@@ -288,6 +302,9 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Mask for extracting the sign bit from a 32-bit integer. </p>
+<p>If the most significant bit of a 32-bit number is set (i.e., the number is negative when treated as a two's complement signed integer), then it has a negative sign. </p>
+
 </div>
 </div>
 <a id="a22ad22e72c7b6bfdf6549f7b9be71c2c"></a>
@@ -301,6 +318,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Length (in digits) of the significant part of a decimal number in the system. </p>
 
 </div>
 </div>
