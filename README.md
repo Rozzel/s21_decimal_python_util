@@ -3,6 +3,7 @@
 ## Project documentation
 
  - [Documentation](https://rozzel.github.io/s21_decimal_python_util/docs)
+ - [split_96_to_32.py](https://github.com/Rozzel/s21_decimal_python_util/blob/main/src/split_96_to_32.py)
 
 ## split_96_to_32
 
