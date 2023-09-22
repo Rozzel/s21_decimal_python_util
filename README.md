@@ -1,5 +1,9 @@
 # s21_decimal_python_util
 
+## Project documentation
+
+ - [Documentation](https://rozzel.github.io/s21_decimal_python_util/docs)
+
 ## split_96_to_32
 
 ### Пример: 79228162514264337593543950330
