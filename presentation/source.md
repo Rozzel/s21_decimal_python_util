@@ -1,8 +1,17 @@
-<!-- .slide: data-auto-animate -->
-# s21_decimal
+# s21_decimal-2
+
+- Comparison
+	- is_less
+	- is_less_or_equal
+	- is_greater
+	- is_greater_or_equal
+
+```c
+int compare(s21_decimal left, s21_decimal right);
+```
 
 ---
-<!-- .slide: data-auto-animate -->
+
 ## Team
 
 - **Valeriia** <sup>Rickonsh</sup>
@@ -14,6 +23,7 @@
 - **Vladislav** <sup>Lothostr</sup>
 
 ---
+
 ## Valgrind
 
 Checking for memory leaks
