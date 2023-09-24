@@ -1,5 +1,5 @@
 <map id="compare" name="compare">
-<area shape="rect" id="node1" title="Compares two s21_decimal numbers." alt="" coords="383,132,461,159"/>
+<area shape="rect" id="node1" title="Compares two decimal numbers." alt="" coords="383,132,461,159"/>
 <area shape="rect" id="node2" href="$s21__is__equal_8c.html#a9f063cb8be8f1797e59e5afd67012890" title="Checks if two s21_decimal numbers are equal." alt="" coords="191,5,298,32"/>
 <area shape="rect" id="node4" href="$s21__is__greater_8c.html#a0e8890642df1d26bd4f029e05f1099f6" title="Checks if one s21_decimal number is strictly greater than another." alt="" coords="186,56,303,83"/>
 <area shape="rect" id="node6" href="$s21__is__greater__or__equal_8c.html#a77595f19b8585634c41040ab76d619c7" title="Checks if one s21_decimal number is greater than or equal to another." alt="" coords="155,107,335,133"/>

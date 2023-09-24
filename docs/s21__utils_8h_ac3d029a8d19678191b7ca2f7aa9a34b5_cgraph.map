@@ -1,7 +1,11 @@
 <map id="compare" name="compare">
-<area shape="rect" id="node1" title="Compares two s21_decimal numbers." alt="" coords="5,81,84,108"/>
-<area shape="rect" id="node2" href="$s21__utils_8c.html#a9d6231bec9abbe0d57f60c6900d0f66f" title="Copies the contents of one s21_decimal structure to another." alt="" coords="132,5,244,32"/>
-<area shape="rect" id="node3" href="$s21__utils_8c.html#a8d8318d6fab0f1a7cfa6ed024f6fb1eb" title="Retrieves the exponent from a scale number." alt="" coords="292,107,403,133"/>
-<area shape="rect" id="node4" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="149,107,227,133"/>
-<area shape="rect" id="node5" href="$s21__truncate_8c.html#a96fe7ecfba2a6819029af4aba433b6ea" title="Truncates the fractional part of an s21_decimal value." alt="" coords="135,157,241,184"/>
+<area shape="rect" id="node1" title="Compares two decimal numbers." alt="" coords="5,122,84,149"/>
+<area shape="rect" id="node2" href="$s21__utils_8c.html#a54de41f4cefa606f8532692168812c88" title="Aligns the scaling factors (exponents) of two s21_big_decimal numbers." alt="" coords="132,13,340,39"/>
+<area shape="rect" id="node5" href="$s21__utils_8c.html#ac670430b0e07e476e9f80430debe5b9e" title="Compares the mantissas of two s21_big_decimal values." alt="" coords="149,63,323,90"/>
+<area shape="rect" id="node6" href="$s21__utils_8c.html#a516da673f6502ca3b4e0db75643a2728" title="Converts an s21_decimal structure to its corresponding s21_big_decimal representation." alt="" coords="157,115,315,156"/>
+<area shape="rect" id="node8" href="$s21__utils_8c.html#a9332d676f05495979feb7ccc172ef68b" title="Retrieves the sign bit from a given number." alt="" coords="431,177,508,203"/>
+<area shape="rect" id="node9" href="$s21__utils_8c.html#a766516f876fb11c370452543889640f3" title="Initializes and returns a default s21_big_decimal structure." alt="" coords="154,231,318,258"/>
+<area shape="rect" id="node3" href="$s21__utils_8c.html#a49ad2dff42cb71a3a15238a88dba12ef" title="Increases the accuracy (precision) of an s21_big_decimal number by one decimal place." alt="" coords="388,5,551,47"/>
+<area shape="rect" id="node4" href="$s21__utils_8c.html#af02ed997d3fe7b4d327c64496d7293ed" title="Multiplies the mantissa of an s21_big_decimal number by an integer." alt="" coords="599,13,799,39"/>
+<area shape="rect" id="node7" href="$s21__utils_8c.html#a8d8318d6fab0f1a7cfa6ed024f6fb1eb" title="Retrieves the exponent from a scale number." alt="" coords="414,122,525,149"/>
 </map>
